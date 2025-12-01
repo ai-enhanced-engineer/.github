@@ -21,9 +21,3 @@ We're solving this two ways:
 - **90/10 reality** — Most production AI is validation, monitoring, and error handling—not algorithms
 
 We believe AI should amplify human capability, not replace human judgment. Our approach emphasizes practical solutions that enhance developer productivity and accelerate your path from idea to production.
-
-### Get Started
-
-- [Python Agentic Template](https://github.com/ai-enhanced-engineer/python-agentic-template) — Describe your project. Let agents build it.
-
-📰 **[AI Enhanced Engineer Newsletter](https://aienhancedengineer.substack.com/)** — Deep dives into AI-assisted engineering and the future of development.
