@@ -1,4 +1,4 @@
-**Autonomous agents. Human decisions. Production-grade AI.**
+**Autonomous agents🔹Human decisions 🔹Production-grade AI**
 
 We build tools and autonomous workflows that ship production AI faster.
 
